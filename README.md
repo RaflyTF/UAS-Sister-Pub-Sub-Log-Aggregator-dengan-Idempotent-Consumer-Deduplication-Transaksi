@@ -262,7 +262,7 @@ uas-log-aggregator/
 
 ## 📹 Video Demo
 
-[Link YouTube: *isi setelah upload*]
+https://youtu.be/XeSoiZspKmg
 
 ---
 
